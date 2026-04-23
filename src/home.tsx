@@ -8,37 +8,6 @@ function Home() {
 
   const matches = [
   
-  
-  
-  
-  {
-    "id": "match32",
-    "date": "22-Apr-2026",
-    "time": "7:30 PM",
-    "team1": {
-      "name": "Lucknow Super Giants",
-      "logo": "https://scores.iplt20.com/ipl/teamlogos/b7GnGJW4bi1772703245LSG.png"
-    },
-    "team2": {
-      "name": "Rajasthan Royals",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/5/5c/This_is_the_logo_for_Rajasthan_Royals%2C_a_cricket_team_playing_in_the_Indian_Premier_League_%28IPL%29.svg"
-    },
-    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
-  },
-  {
-    "id": "match33",
-    "date": "23-Apr-2026",
-    "time": "7:30 PM",
-    "team1": {
-      "name": "Mumbai Indians",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/c/cd/Mumbai_Indians_Logo.svg"
-    },
-    "team2": {
-      "name": "Chennai Super Kings",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Chennai_Super_Kings_Logo.svg"
-    },
-    "venue": "Wankhede Stadium, Mumbai"
-  },
   {
     "id": "match34",
     "date": "24-Apr-2026",
